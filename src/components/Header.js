@@ -1,31 +1,47 @@
 import { Component } from "react";
 import { NavLink } from 'react-router-dom'
 import './styles/header.scss'
+import { Link, animateScroll as scroll } from "react-scroll";
 
 function NavigationBar() {
   return (
     <div className="nav-bar">
      <ul className="nav-list">
       <li>
-        <NavLink
+        <Link
+        activeClass="active"
         className='nav-links'
-        to='/portfolio'>
+        spy={true}
+        smooth={true}
+        offset={-70}
+        duration={500}
+        to='/'>
           Home Page
-        </NavLink>
+      </Link>
       </li>
       <li>
-        <NavLink
+      <Link
+        activeClass="active"
         className='nav-links'
-        to='/portfolio/projects'>
+        spy={true}
+        smooth={true}
+        offset={-70}
+        duration={500}
+        to='projects'>
           Projects
-        </NavLink>
+      </Link>
       </li>
       <li>
-        <NavLink
+      <Link
+        activeClass="active"
         className='nav-links'
-        to='/portfolio/tech-stack'>
+        spy={true}
+        smooth={true}
+        offset={-70}
+        duration={500}
+        to='tech-stack'>
           Tech Stack
-        </NavLink>
+      </Link>
       </li>
       <li>
         <NavLink

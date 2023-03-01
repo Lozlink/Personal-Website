@@ -3,6 +3,7 @@ import NavigationBar from './components/Header';
 import About from './components/About';
 import Projects from './components/Projects';
 import './app.scss'
+import TechStack from './components/Techstack';
 
 function App() {
   return (
@@ -10,10 +11,14 @@ function App() {
       <header>
         <NavigationBar />
       </header>
-    <Routes>
+    {/* <Routes>
       <Route path='/portfolio' element={<About/>}/>
       <Route path='/portfolio/projects' element={<Projects/>}/>
-    </Routes>
+    </Routes> */}
+
+    <About />
+    <Projects />
+    <TechStack />
     </div>
   );
 }
