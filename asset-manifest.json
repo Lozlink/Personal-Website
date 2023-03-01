@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/markmekhayl/static/css/main.254f1bce.css",
+    "main.js": "/markmekhayl/static/js/main.cfb018e6.js",
+    "static/js/787.1ed0c42c.chunk.js": "/markmekhayl/static/js/787.1ed0c42c.chunk.js",
+    "static/media/react.png": "/markmekhayl/static/media/react.81ed438b18e24116794d.png",
+    "static/media/sql.png": "/markmekhayl/static/media/sql.85fb38d6773862e917f4.png",
+    "static/media/node.png": "/markmekhayl/static/media/node.fc3bd1ec69d7a50e685a.png",
+    "static/media/psql.png": "/markmekhayl/static/media/psql.c8891cc79d21bc263a06.png",
+    "static/media/css.png": "/markmekhayl/static/media/css.8a182087615a3845ebac.png",
+    "static/media/axios.png": "/markmekhayl/static/media/axios.01c037de1ce2fa9a5beb.png",
+    "static/media/git.png": "/markmekhayl/static/media/git.90b5ec65a2b350bb3daf.png",
+    "static/media/html.png": "/markmekhayl/static/media/html.eebc3fbfbde4b2abd9db.png",
+    "index.html": "/markmekhayl/index.html",
+    "main.254f1bce.css.map": "/markmekhayl/static/css/main.254f1bce.css.map",
+    "main.cfb018e6.js.map": "/markmekhayl/static/js/main.cfb018e6.js.map",
+    "787.1ed0c42c.chunk.js.map": "/markmekhayl/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.254f1bce.css",
+    "static/js/main.cfb018e6.js"
+  ]
+}
