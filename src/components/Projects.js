@@ -9,7 +9,7 @@ const Projects = () => {
         <div className="project">
           <div>
             <section className="wrapper">
-              <h3>Budgiet- A budgeting tool</h3>
+              <h3>Budgiet</h3>
               
               <ul className="tech-list">
                 <li className="tech">React.js</li>
