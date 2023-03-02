@@ -1,0 +1,19 @@
+h3 {
+  button {
+    max-height: 20px;
+    width: 180px;
+    margin-left: 10px;
+    transform: translateY(-2px);
+  }
+}
+
+.job {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  
+  li {
+    list-style: none;
+  }
+}

@@ -44,32 +44,43 @@ function NavigationBar() {
       </Link>
       </li>
       <li>
-        <NavLink
+      <Link
+        activeClass="active"
         className='nav-links'
-        to='/portfolio/experience'>
+        spy={true}
+        smooth={true}
+        offset={-70}
+        duration={500}
+        to='experience'>
           Experience
-        </NavLink>
+      </Link>
       </li>
       <li>
-        <NavLink
+      <Link
+        activeClass="active"
         className='nav-links'
-        to='/portfolio/education'>
+        spy={true}
+        smooth={true}
+        offset={-70}
+        duration={500}
+        to='education'>
           Education
-        </NavLink>
+      </Link>
       </li>
       <li>
-        <NavLink
-        className='nav-links'
-        to='/portfolio/resume'>
-          Resume
-        </NavLink>
+        <a href={require('../files/Mark Mekhayl CV.pdf')} download>Resume</a>
       </li>
       <li>
-        <NavLink
+      <Link
+        activeClass="active"
         className='nav-links'
-        to='/portfolio/contact'>
-          Contact Me
-        </NavLink>
+        spy={true}
+        smooth={true}
+        offset={-70}
+        duration={500}
+        to='contact'>
+          Contact
+      </Link>
       </li>
      </ul>
     </div>
