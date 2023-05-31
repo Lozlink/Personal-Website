@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/markmekhayl/static/css/main.26c97210.css",
-    "main.js": "/markmekhayl/static/js/main.2ea11850.js",
+    "main.css": "/markmekhayl/static/css/main.502aad74.css",
+    "main.js": "/markmekhayl/static/js/main.e13bfa09.js",
     "static/js/787.1ed0c42c.chunk.js": "/markmekhayl/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Alternate personal background.png": "/markmekhayl/static/media/Alternate personal background.63b6f949d144ff166e65.png",
+    "static/media/Personal background.jpg": "/markmekhayl/static/media/Personal background.1f28da2c4f77297cb05b.jpg",
     "static/media/react.png": "/markmekhayl/static/media/react.81ed438b18e24116794d.png",
     "static/media/sql.png": "/markmekhayl/static/media/sql.85fb38d6773862e917f4.png",
     "static/media/node.png": "/markmekhayl/static/media/node.fc3bd1ec69d7a50e685a.png",
@@ -13,12 +15,12 @@
     "static/media/git.png": "/markmekhayl/static/media/git.90b5ec65a2b350bb3daf.png",
     "static/media/html.png": "/markmekhayl/static/media/html.eebc3fbfbde4b2abd9db.png",
     "index.html": "/markmekhayl/index.html",
-    "main.26c97210.css.map": "/markmekhayl/static/css/main.26c97210.css.map",
-    "main.2ea11850.js.map": "/markmekhayl/static/js/main.2ea11850.js.map",
+    "main.502aad74.css.map": "/markmekhayl/static/css/main.502aad74.css.map",
+    "main.e13bfa09.js.map": "/markmekhayl/static/js/main.e13bfa09.js.map",
     "787.1ed0c42c.chunk.js.map": "/markmekhayl/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26c97210.css",
-    "static/js/main.2ea11850.js"
+    "static/css/main.502aad74.css",
+    "static/js/main.e13bfa09.js"
   ]
 }
