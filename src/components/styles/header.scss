@@ -2,6 +2,8 @@
   display: flex;
   justify-content: center;
   
+
+  
   li {
     padding: 10px;
     list-style: none;
@@ -12,7 +14,20 @@
     color: black;
   }
 }
+.nav-links:hover {
+  background-color: whitesmoke;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding-bottom: 5px;
+}
 
 .nav-links {
   cursor: pointer;
+  
+}
+.header {
+  width: 50%;
+  margin: 0 auto; 
+  padding-right: 40px;
+  border-radius: 25px;
 }

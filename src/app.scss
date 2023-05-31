@@ -1,6 +1,9 @@
 body {
   background-color: skyblue;
-  background-image: url();
+  background-image: url('./images/Personal\ background.jpg'), url('./images/Alternate\ personal\ background.png');
+  background-repeat: repeat-x, repeat;
+  color: white;
+  
 }
 
 header {
