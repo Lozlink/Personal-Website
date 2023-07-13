@@ -5,6 +5,13 @@ import './styles/experience.scss'
 let Experience = () => {
   const [jobs, setJobs] = useState([
     {
+      id: 1,
+      title: "Instructional Associate",
+      company: "General Assembly",
+      date: 'March 2023 - Present',
+      description: ['Provided code review & feedback for a group of 22 of students on adaily basis, as well as 4 major projects feedback.', 'Orchestrated tutorials among various tech stacks', 'Focus on improving coding best practices', 'Provide general and technical instructional support for the students inthe cohort']
+    },
+    {
     id: 1,
     title: "Sales & Marketing Manager",
     company: 'Sunshade Shutters & Blinds',
