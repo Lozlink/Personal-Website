@@ -21,9 +21,18 @@ img {
 }
 
 h1 {
-  color: rgb(247, 44, 44)
+  animation: colorChange 3s linear infinite;
 }
 
 h2 {
-  color: rgb(247, 44, 44)
+  animation: colorChange 3s linear infinite;
+}
+
+@keyframes colorChange {
+  0% {
+    color: red;
+  }
+  100% {
+    color: blue;
+  }
 }
