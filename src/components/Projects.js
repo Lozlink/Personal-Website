@@ -44,7 +44,7 @@ const Projects = () => {
           </div>
 
           <aside>
-          <img src="https://i.imgur.com/nc5blhm.jpg" alt="" />
+            <img src="https://i.imgur.com/nc5blhm.jpg" alt="" />
           </aside>
         </div>
 
@@ -85,7 +85,7 @@ const Projects = () => {
           </div>
 
           <aside>
-          <img src="https://i.imgur.com/7MKtgXL.png" alt="" />
+            <img src="https://i.imgur.com/7MKtgXL.png" alt="" />
           </aside>
       </div>
 
@@ -124,7 +124,7 @@ const Projects = () => {
           </div>
 
           <aside>
-          <img src="https://i.imgur.com/w2ndXo2.jpg" alt="" />
+            <img src="https://i.imgur.com/w2ndXo2.jpg" alt="" />
           </aside>
       </div>
 
@@ -165,7 +165,7 @@ const Projects = () => {
           </div>
 
           <aside>
-          <img src="https://i.imgur.com/1ySQ1Kh.jpg" alt="" />
+            <img src="https://i.imgur.com/1ySQ1Kh.jpg" alt="" />
           </aside>
       </div>
 

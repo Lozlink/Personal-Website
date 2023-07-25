@@ -5,6 +5,11 @@
   gap: 1rem;
 }
 
+.projects>div>aside>img {
+  height: 470px;
+  width: 700px;
+}
+
 .project {
   display: flex;
   flex-direction: column;
@@ -88,4 +93,9 @@ h1 {
 .wrapper {
   overflow: scroll;
   height: 200px;
+}
+
+aside img {
+  width: 700px;
+  height: 470px;
 }
