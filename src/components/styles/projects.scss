@@ -6,8 +6,9 @@
 }
 
 .project {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));;
+  
   align-items: center;
   justify-content: center;
   width: 700px;
@@ -88,8 +89,4 @@ h1 {
 .wrapper {
   overflow: scroll;
   height: 200px;
-}
-
-.project aside {
-  
 }
